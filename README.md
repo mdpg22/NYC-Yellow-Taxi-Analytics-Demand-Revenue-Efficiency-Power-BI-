@@ -107,3 +107,32 @@ This analysis helps understand:
 ---
 
 # 📂 Repository Structure
+NYC-Taxi-PowerBI/
+│
+├── data/
+│ ├── taxi_zone_lookup.csv
+│ ├── taxi_zone_centroids_lookup.csv
+│ └── tripdata.parquet
+│
+├── dashboard/
+│ └── trabajo.pbix
+│
+├── images/
+│ └── dashboard-preview.png
+│
+└── README.md
+
+---
+
+# 📌 Future Improvements
+
+- Add predictive demand modeling
+- Time-series forecasting
+- Integration with weather and events data
+- Machine learning for demand prediction
+
+---
+
+# 👤 Author
+
+Data Analytics Project created as part of a **Project Management MsC subject**.
