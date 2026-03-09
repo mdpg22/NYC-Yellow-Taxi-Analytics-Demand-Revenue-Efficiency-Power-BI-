@@ -1,3 +1,5 @@
+![Dashboard Preview](images/dashboard-preview.png)
+
 # 🚖 NYC Yellow Taxi Analytics – Power BI Dashboard
 
 This project presents an interactive **Power BI dashboard** analyzing **NYC Yellow Taxi trip data**.  
