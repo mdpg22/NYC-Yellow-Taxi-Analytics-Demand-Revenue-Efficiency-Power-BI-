@@ -71,10 +71,6 @@ The data comes from **NYC TLC Yellow Taxi Trip Records**, which include fields s
 
 These fields allow detailed analysis of **trip behavior, pricing, and mobility patterns**.
 
-## Dataset
-
-The dataset used in this project comes from the NYC Taxi & Limousine Commission (TLC).
-
 Due to file size limitations, the dataset is not included in this repository.
 
 You can download it from the official source:
